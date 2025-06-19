@@ -39,6 +39,15 @@ Edit
    git clone https://github.com/your-username/student-management-system.git
 2. Run the app: python main.py --- 💾 students.json will be created automatically after you add your first student.
 
+## 📸 Screenshots
+
+### 🔹 Main Window
+![Main Window](Samples/GUI SAMPLE.png)
+
+### 🔹 After Adding Student
+![Added Student](Samples/Student data added.png)
+
 🧑‍💻 Made by
 Natansh Mahajan
+
 Connect with me on [Linkedin](https://www.linkedin.com/in/natansh-mahajan-287b19316/)
