@@ -28,10 +28,6 @@ student_management_system/
 ├── students.json # Auto-generated data file
 └── README.md # Project overview and usage
 
-bash
-Copy
-Edit
-
 ## 🚀 How to Run
 
 1. Clone the repo:
