@@ -1,16 +1,16 @@
 [
   {
-    "name": "Akash Sharma",
-    "age": "20",
-    "roll": "2410993102",
-    "email": "akak2@gmail.com",
+    "name": "Natansh Mahajan",
+    "age": "19",
+    "roll": "123",
+    "email": "abc@gmail.com",
     "dept": "CSE AI ML"
   },
   {
-    "name": "Natansh Mahajan",
-    "age": "19",
-    "roll": "2410993341",
-    "email": "mahajannatansh@gmail.com",
-    "dept": "CSE AI ML"
+    "name": "vansh mahajan",
+    "age": "20",
+    "roll": "2065161",
+    "email": "lanshoijvpi@gmail.com",
+    "dept": "cse"
   }
 ]
